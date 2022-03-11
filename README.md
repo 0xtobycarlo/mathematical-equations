@@ -2,7 +2,7 @@
 
 -=+=- CALCULUS -=+=-
 
-i. Tables of Derivatives
+I. Tables of Derivatives
 - General Rules
 - Powers & Polynomials
 - Trigonometric Functions
@@ -10,7 +10,7 @@ i. Tables of Derivatives
 - Exponential & Logarithmic Functions
 - Hyperbolic & Inverse Hypoerbolic Functions
 
-ii. Tables of Integrals
+II. Tables of Integrals
 - Rules
 - Powers
 - Trigonometric Functions
@@ -21,13 +21,13 @@ ii. Tables of Integrals
 
 -=+=- TRIGONOMETRY -=+=-
 
-i. Angles
+I. Angles
 
-ii. Trigonometric Functions
+II. Trigonometric Functions
 - Fundamental Trigonometric Functions
 - Characteristics
 
-iii. Trignometric Formulas
+III. Trigonometric Formulas
 - Fundamental Trigonometry Function
 - Sum & Difference Angles
 - Reduced Power
