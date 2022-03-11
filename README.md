@@ -1,6 +1,6 @@
 # Fundamental Mathematics (not finished)
 
-(1) CALCULUS
+-=+=- CALCULUS -=+=-
 
 Tables of Derivatives
 - General Rules
@@ -19,7 +19,7 @@ Tables of Integrals
 - Hyperbolic Functions
 - Misc & Definite Integrals
 
-(2) TRIGONOMETRY
+-=+=- TRIGONOMETRY -=+=-
 
 Angles
 
