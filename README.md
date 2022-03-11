@@ -44,4 +44,3 @@ Trignometric Formulas
 - Series
 - Integrals
 - Complex Trigonometric Functions
-- 
