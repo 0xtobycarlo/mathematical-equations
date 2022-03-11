@@ -21,26 +21,27 @@ Tables of Integrals
 
 (2) TRIGONOMETRY
 
-- Angles
+Angles
 
-- Trigonometric Functions
-    - Fundamental Trigonometric Functions
-    - Characteristics
+Trigonometric Functions
+- Fundamental Trigonometric Functions
+- Characteristics
 
-- Trignometric Formulas
-    - Fundamental Trigonometry Function
-    - Sum & Difference Angles
-    - Reduced Power
-    - Half Angles
-    - Product Of Trigonometric Functions
-    - Inverse Trigonometric Functions
-    - Complex Number
-    - Infinite Product
-    - Limits
-    - Derivatives
-    - Common Trigonometric Functions
-    - Double Angle Trigonometric Functions
-    - Triple Angle Trigonometric Functions
-    - Series
-    - Integrals
-    - Complex Trigonometric Functions
+Trignometric Formulas
+- Fundamental Trigonometry Function
+- Sum & Difference Angles
+- Reduced Power
+- Half Angles
+- Product Of Trigonometric Functions
+- Inverse Trigonometric Functions
+- Complex Number
+- Infinite Product
+- Limits
+- Derivatives
+- Common Trigonometric Functions
+- Double Angle Trigonometric Functions
+- Triple Angle Trigonometric Functions
+- Series
+- Integrals
+- Complex Trigonometric Functions
+- 
