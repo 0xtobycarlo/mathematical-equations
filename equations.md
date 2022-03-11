@@ -22,9 +22,11 @@ Tables of Integrals
 (2) TRIGONOMETRY
 
 - Angles
+
 - Trigonometric Functions
     - Fundamental Trigonometric Functions
     - Characteristics
+
 - Trignometric Formulas
     - Fundamental Trigonometry Function
     - Sum & Difference Angles
