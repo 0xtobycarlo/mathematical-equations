@@ -1,3 +1,3 @@
-# Repo For Fundamental Mathematics
+# Repo For Trig
 
-Algebra, Applied Mathematics, Arithmetic, Calculus, Geometry, Linear Algebra, Matrices, Trigonometry, Vectors
+Trigonometry Equations
