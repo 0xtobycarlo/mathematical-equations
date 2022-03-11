@@ -1,3 +1,3 @@
-# Repo For Trig
+# Repo For Some Fundamental Mathematics
 
-Trigonometry Equations
+Trigonometry, Geometry, Calculus, Linear Algebra etc
